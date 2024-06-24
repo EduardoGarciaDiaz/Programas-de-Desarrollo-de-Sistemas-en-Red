@@ -1,0 +1,103 @@
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\bin\Debug\net8.0\appsettings.Development.json
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\bin\Debug\net8.0\appsettings.json
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\bin\Debug\net8.0\servidor.exe
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\bin\Debug\net8.0\servidor.deps.json
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\bin\Debug\net8.0\servidor.runtimeconfig.json
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\bin\Debug\net8.0\servidor.dll
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\bin\Debug\net8.0\servidor.pdb
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\bin\Debug\net8.0\Grpc.Core.Api.dll
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\bin\Debug\net8.0\Grpc.Net.Client.dll
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\bin\Debug\net8.0\Grpc.Net.Common.dll
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\obj\Debug\net8.0\servidor.csproj.AssemblyReference.cache
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\obj\Debug\net8.0\servidor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\obj\Debug\net8.0\servidor.AssemblyInfoInputs.cache
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\obj\Debug\net8.0\servidor.AssemblyInfo.cs
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\obj\Debug\net8.0\servidor.csproj.CoreCompileInputs.cache
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\obj\Debug\net8.0\servidor.MvcApplicationPartsAssemblyInfo.cache
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\obj\Debug\net8.0\servidor.sourcelink.json
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\obj\Debug\net8.0\staticwebassets.build.json
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\obj\Debug\net8.0\staticwebassets.development.json
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\obj\Debug\net8.0\staticwebassets\msbuild.servidor.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\obj\Debug\net8.0\staticwebassets\msbuild.build.servidor.props
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.servidor.props
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.servidor.props
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\obj\Debug\net8.0\scopedcss\bundle\servidor.styles.css
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\obj\Debug\net8.0\servidor.csproj.Up2Date
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\obj\Debug\net8.0\servidor.dll
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\obj\Debug\net8.0\refint\servidor.dll
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\obj\Debug\net8.0\servidor.pdb
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\obj\Debug\net8.0\servidor.genruntimeconfig.cache
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\servidor\obj\Debug\net8.0\ref\servidor.dll
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\bin\Debug\net8.0\appsettings.Development.json
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\bin\Debug\net8.0\appsettings.json
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\bin\Debug\net8.0\servidor.exe
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\bin\Debug\net8.0\servidor.deps.json
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\bin\Debug\net8.0\servidor.runtimeconfig.json
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\bin\Debug\net8.0\servidor.dll
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\bin\Debug\net8.0\servidor.pdb
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\bin\Debug\net8.0\Google.Protobuf.dll
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\obj\Debug\net8.0\servidor.csproj.AssemblyReference.cache
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\obj\Debug\net8.0\servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\obj\Debug\net8.0\servidor.AssemblyInfoInputs.cache
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\obj\Debug\net8.0\servidor.AssemblyInfo.cs
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\obj\Debug\net8.0\servidor.csproj.CoreCompileInputs.cache
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\obj\Debug\net8.0\servidor.MvcApplicationPartsAssemblyInfo.cache
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\obj\Debug\net8.0\staticwebassets.build.json
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\obj\Debug\net8.0\staticwebassets.development.json
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\obj\Debug\net8.0\staticwebassets\msbuild.servidor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\obj\Debug\net8.0\staticwebassets\msbuild.build.servidor.props
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.servidor.props
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.servidor.props
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\obj\Debug\net8.0\staticwebassets.pack.json
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\obj\Debug\net8.0\scopedcss\bundle\servidor.styles.css
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\obj\Debug\net8.0\servidor.csproj.CopyComplete
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\obj\Debug\net8.0\servidor.dll
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\obj\Debug\net8.0\refint\servidor.dll
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\obj\Debug\net8.0\servidor.pdb
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\obj\Debug\net8.0\servidor.genruntimeconfig.cache
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\servidor\obj\Debug\net8.0\ref\servidor.dll
+C:\codigo\dsr\gRPCc#Audio\servidor\bin\Debug\net8.0\appsettings.Development.json
+C:\codigo\dsr\gRPCc#Audio\servidor\bin\Debug\net8.0\appsettings.json
+C:\codigo\dsr\gRPCc#Audio\servidor\bin\Debug\net8.0\servidor.exe
+C:\codigo\dsr\gRPCc#Audio\servidor\bin\Debug\net8.0\servidor.deps.json
+C:\codigo\dsr\gRPCc#Audio\servidor\bin\Debug\net8.0\servidor.runtimeconfig.json
+C:\codigo\dsr\gRPCc#Audio\servidor\bin\Debug\net8.0\servidor.dll
+C:\codigo\dsr\gRPCc#Audio\servidor\bin\Debug\net8.0\servidor.pdb
+C:\codigo\dsr\gRPCc#Audio\servidor\bin\Debug\net8.0\Google.Protobuf.dll
+C:\codigo\dsr\gRPCc#Audio\servidor\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+C:\codigo\dsr\gRPCc#Audio\servidor\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\codigo\dsr\gRPCc#Audio\servidor\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\codigo\dsr\gRPCc#Audio\servidor\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\codigo\dsr\gRPCc#Audio\servidor\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+C:\codigo\dsr\gRPCc#Audio\servidor\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\codigo\dsr\gRPCc#Audio\servidor\obj\Debug\net8.0\servidor.csproj.AssemblyReference.cache
+C:\codigo\dsr\gRPCc#Audio\servidor\obj\Debug\net8.0\servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigo\dsr\gRPCc#Audio\servidor\obj\Debug\net8.0\servidor.AssemblyInfoInputs.cache
+C:\codigo\dsr\gRPCc#Audio\servidor\obj\Debug\net8.0\servidor.AssemblyInfo.cs
+C:\codigo\dsr\gRPCc#Audio\servidor\obj\Debug\net8.0\servidor.csproj.CoreCompileInputs.cache
+C:\codigo\dsr\gRPCc#Audio\servidor\obj\Debug\net8.0\servidor.MvcApplicationPartsAssemblyInfo.cache
+C:\codigo\dsr\gRPCc#Audio\servidor\obj\Debug\net8.0\staticwebassets.build.json
+C:\codigo\dsr\gRPCc#Audio\servidor\obj\Debug\net8.0\staticwebassets.development.json
+C:\codigo\dsr\gRPCc#Audio\servidor\obj\Debug\net8.0\staticwebassets\msbuild.servidor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\codigo\dsr\gRPCc#Audio\servidor\obj\Debug\net8.0\staticwebassets\msbuild.build.servidor.props
+C:\codigo\dsr\gRPCc#Audio\servidor\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.servidor.props
+C:\codigo\dsr\gRPCc#Audio\servidor\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.servidor.props
+C:\codigo\dsr\gRPCc#Audio\servidor\obj\Debug\net8.0\staticwebassets.pack.json
+C:\codigo\dsr\gRPCc#Audio\servidor\obj\Debug\net8.0\scopedcss\bundle\servidor.styles.css
+C:\codigo\dsr\gRPCc#Audio\servidor\obj\Debug\net8.0\servidor.csproj.CopyComplete
+C:\codigo\dsr\gRPCc#Audio\servidor\obj\Debug\net8.0\servidor.dll
+C:\codigo\dsr\gRPCc#Audio\servidor\obj\Debug\net8.0\refint\servidor.dll
+C:\codigo\dsr\gRPCc#Audio\servidor\obj\Debug\net8.0\servidor.pdb
+C:\codigo\dsr\gRPCc#Audio\servidor\obj\Debug\net8.0\servidor.genruntimeconfig.cache
+C:\codigo\dsr\gRPCc#Audio\servidor\obj\Debug\net8.0\ref\servidor.dll

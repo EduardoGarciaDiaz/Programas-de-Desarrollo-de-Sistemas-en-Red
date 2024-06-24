@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "com.proto.calculadora";
+
+message OperacionRequest {
+    float primerNumero = 1;
+    float segundoNumero = 2;
+}
+
+message OperacionResponse {
+    float resultado = 1;
+}
+
+service CalculadoraService {
+    rpc Sumar(OperacionRequest) returns (OperacionResponse);
+    rpc Restar(OperacionRequest) returns (OperacionResponse);
+    rpc Multiplicar(OperacionRequest) returns (OperacionResponse);
+    rpc Dividir(OperacionRequest) returns (OperacionResponse);
+}

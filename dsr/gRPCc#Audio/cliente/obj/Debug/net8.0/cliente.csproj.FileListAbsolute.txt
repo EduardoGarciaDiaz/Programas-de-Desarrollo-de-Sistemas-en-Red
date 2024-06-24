@@ -1,0 +1,71 @@
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\cliente\bin\Debug\net8.0\cliente.exe
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\cliente\bin\Debug\net8.0\cliente.deps.json
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\cliente\bin\Debug\net8.0\cliente.runtimeconfig.json
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\cliente\bin\Debug\net8.0\cliente.dll
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\cliente\bin\Debug\net8.0\cliente.pdb
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\cliente\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\cliente\bin\Debug\net8.0\Grpc.Core.Api.dll
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\cliente\bin\Debug\net8.0\Grpc.Net.Client.dll
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\cliente\bin\Debug\net8.0\Grpc.Net.Common.dll
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\cliente\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\cliente\obj\Debug\net8.0\cliente.csproj.AssemblyReference.cache
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\cliente\obj\Debug\net8.0\cliente.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\cliente\obj\Debug\net8.0\cliente.AssemblyInfoInputs.cache
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\cliente\obj\Debug\net8.0\cliente.AssemblyInfo.cs
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\cliente\obj\Debug\net8.0\cliente.csproj.CoreCompileInputs.cache
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\cliente\obj\Debug\net8.0\cliente.sourcelink.json
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\cliente\obj\Debug\net8.0\cliente.csproj.Up2Date
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\cliente\obj\Debug\net8.0\cliente.dll
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\cliente\obj\Debug\net8.0\refint\cliente.dll
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\cliente\obj\Debug\net8.0\cliente.pdb
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\cliente\obj\Debug\net8.0\cliente.genruntimeconfig.cache
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\cliente\obj\Debug\net8.0\ref\cliente.dll
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\cliente\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Ejercicios de Java\1.EjerciciosRed\PracticasRedEnGit\gRPCc#Audio\cliente\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\cliente\bin\Debug\net8.0\cliente.exe
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\cliente\bin\Debug\net8.0\cliente.deps.json
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\cliente\bin\Debug\net8.0\cliente.runtimeconfig.json
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\cliente\bin\Debug\net8.0\cliente.dll
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\cliente\bin\Debug\net8.0\cliente.pdb
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\cliente\bin\Debug\net8.0\Google.Protobuf.dll
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\cliente\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\cliente\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\cliente\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\cliente\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\cliente\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\cliente\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\cliente\obj\Debug\net8.0\cliente.csproj.AssemblyReference.cache
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\cliente\obj\Debug\net8.0\cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\cliente\obj\Debug\net8.0\cliente.AssemblyInfoInputs.cache
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\cliente\obj\Debug\net8.0\cliente.AssemblyInfo.cs
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\cliente\obj\Debug\net8.0\cliente.csproj.CoreCompileInputs.cache
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\cliente\obj\Debug\net8.0\cliente.csproj.CopyComplete
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\cliente\obj\Debug\net8.0\cliente.dll
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\cliente\obj\Debug\net8.0\refint\cliente.dll
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\cliente\obj\Debug\net8.0\cliente.pdb
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\cliente\obj\Debug\net8.0\cliente.genruntimeconfig.cache
+C:\codigo\dsr\gRPCCSharpAudio\gRPCc#Audio\cliente\obj\Debug\net8.0\ref\cliente.dll
+C:\codigo\dsr\gRPCc#Audio\cliente\bin\Debug\net8.0\cliente.exe
+C:\codigo\dsr\gRPCc#Audio\cliente\bin\Debug\net8.0\cliente.deps.json
+C:\codigo\dsr\gRPCc#Audio\cliente\bin\Debug\net8.0\cliente.runtimeconfig.json
+C:\codigo\dsr\gRPCc#Audio\cliente\bin\Debug\net8.0\cliente.dll
+C:\codigo\dsr\gRPCc#Audio\cliente\bin\Debug\net8.0\cliente.pdb
+C:\codigo\dsr\gRPCc#Audio\cliente\bin\Debug\net8.0\Google.Protobuf.dll
+C:\codigo\dsr\gRPCc#Audio\cliente\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\codigo\dsr\gRPCc#Audio\cliente\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\codigo\dsr\gRPCc#Audio\cliente\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\codigo\dsr\gRPCc#Audio\cliente\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\codigo\dsr\gRPCc#Audio\cliente\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\codigo\dsr\gRPCc#Audio\cliente\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\codigo\dsr\gRPCc#Audio\cliente\obj\Debug\net8.0\cliente.csproj.AssemblyReference.cache
+C:\codigo\dsr\gRPCc#Audio\cliente\obj\Debug\net8.0\cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigo\dsr\gRPCc#Audio\cliente\obj\Debug\net8.0\cliente.AssemblyInfoInputs.cache
+C:\codigo\dsr\gRPCc#Audio\cliente\obj\Debug\net8.0\cliente.AssemblyInfo.cs
+C:\codigo\dsr\gRPCc#Audio\cliente\obj\Debug\net8.0\cliente.csproj.CoreCompileInputs.cache
+C:\codigo\dsr\gRPCc#Audio\cliente\obj\Debug\net8.0\cliente.csproj.CopyComplete
+C:\codigo\dsr\gRPCc#Audio\cliente\obj\Debug\net8.0\cliente.dll
+C:\codigo\dsr\gRPCc#Audio\cliente\obj\Debug\net8.0\refint\cliente.dll
+C:\codigo\dsr\gRPCc#Audio\cliente\obj\Debug\net8.0\cliente.pdb
+C:\codigo\dsr\gRPCc#Audio\cliente\obj\Debug\net8.0\cliente.genruntimeconfig.cache
+C:\codigo\dsr\gRPCc#Audio\cliente\obj\Debug\net8.0\ref\cliente.dll
+C:\codigo\dsr\gRPCc#Audio\cliente\obj\Debug\net8.0\cliente.sourcelink.json

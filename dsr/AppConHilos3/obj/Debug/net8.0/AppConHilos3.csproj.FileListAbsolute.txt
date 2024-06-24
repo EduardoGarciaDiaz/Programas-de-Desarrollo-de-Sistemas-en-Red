@@ -1,0 +1,15 @@
+C:\codigo\dsr\AppConHilos3\bin\Debug\net8.0\AppConHilos3.exe
+C:\codigo\dsr\AppConHilos3\bin\Debug\net8.0\AppConHilos3.deps.json
+C:\codigo\dsr\AppConHilos3\bin\Debug\net8.0\AppConHilos3.runtimeconfig.json
+C:\codigo\dsr\AppConHilos3\bin\Debug\net8.0\AppConHilos3.dll
+C:\codigo\dsr\AppConHilos3\bin\Debug\net8.0\AppConHilos3.pdb
+C:\codigo\dsr\AppConHilos3\obj\Debug\net8.0\AppConHilos3.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigo\dsr\AppConHilos3\obj\Debug\net8.0\AppConHilos3.AssemblyInfoInputs.cache
+C:\codigo\dsr\AppConHilos3\obj\Debug\net8.0\AppConHilos3.AssemblyInfo.cs
+C:\codigo\dsr\AppConHilos3\obj\Debug\net8.0\AppConHilos3.csproj.CoreCompileInputs.cache
+C:\codigo\dsr\AppConHilos3\obj\Debug\net8.0\AppConHilos3.dll
+C:\codigo\dsr\AppConHilos3\obj\Debug\net8.0\refint\AppConHilos3.dll
+C:\codigo\dsr\AppConHilos3\obj\Debug\net8.0\AppConHilos3.pdb
+C:\codigo\dsr\AppConHilos3\obj\Debug\net8.0\AppConHilos3.genruntimeconfig.cache
+C:\codigo\dsr\AppConHilos3\obj\Debug\net8.0\ref\AppConHilos3.dll
+C:\codigo\dsr\AppConHilos3\obj\Debug\net8.0\AppConHilos3.sourcelink.json

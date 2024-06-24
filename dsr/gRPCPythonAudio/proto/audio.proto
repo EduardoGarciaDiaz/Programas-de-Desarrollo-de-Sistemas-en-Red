@@ -1,0 +1,19 @@
+// Version de protoobuf que estamos usando: syntax
+syntax = "proto3";
+
+// El cliente envia el objeto de tipo "DownloadFileRequest" al servidor
+message DownloadFileRequest {
+    string nombreArchivo = 1;
+}
+
+// El servidor envia el objero de tipo DataChunkResponse al cliente
+message DataChunkResponse {
+    bytes data = 1;
+}
+
+// Nombre del servicio: "AudioService"
+// La función "downloadAudio()" toma la entrada de tipo DownloadFileRequest y devuelve la salida de tipo DataChunkResponse
+service AudioService {
+    // Función a implementar
+    rpc downloadAudio (DownloadFileRequest) returns (stream DataChunkResponse);
+}
